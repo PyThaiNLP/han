@@ -3,3 +3,4 @@
 
 ## Experiment
 - 🪿 Han-Coref: Thai Coreference resolution by PyThaiNLP [GitHub](https://github.com/PyThaiNLP/han-coref)
+- 🪿 Han-solo: Thai syllable segmenter [GitHub](https://github.com/PyThaiNLP/Han-solo)
